@@ -1,0 +1,32 @@
+VSCode: https://code.visualstudio.com/#
+Instalação VSCode Linux: https://code.visualstudio.com/docs/setup/linux
+Caracteres especiais: https://www.w3schools.com/html/html_entities.asp
+Tipos de bordas: https://www.w3schools.com/css/css_border.asp
+Códigos de cores HTML: https://html-color-codes.info/Codigos-de-Cores-HTML/
+Tipos de fontes: https://www.w3schools.com/css/css_font.asp
+Fontes seguras para utilizar: https://www.w3schools.com/cssref/css_websafe_fonts.php
+Estilos de textos: https://www.w3schools.com/cssref/pr_font_font.php
+CSS Background: https://www.w3schools.com/css/css_background.asp
+Link para o normalize: https://necolas.github.io/normalize.css/
+Box sizing: https://www.w3schools.com/cssref/css3_pr_box-sizing.php
+Transparências: https://www.w3schools.com/css/css3_colors.asp
+Degradê: https://www.w3schools.com/css/css3_gradients.asp
+Sombras em textos: https://www.w3schools.com/cssref/css3_pr_text-shadow.php
+Sombras em caixas: https://www.w3schools.com/cssref/css3_pr_box-shadow.php
+Animações: https://www.w3schools.com/css/css3_animations.asp
+Direções: https://www.w3schools.com/cssref/css3_pr_animation-direction.php
+Transições: https://www.w3schools.com/css/css3_transitions.asp
+flex-direction: https://www.w3schools.com/cssref/css3_pr_flex-direction.php
+flex-wrap: https://www.w3schools.com/cssref/css3_pr_flex-wrap.php
+justify-content: https://www.w3schools.com/cssref/css3_pr_justify-content.php
+align-items: https://www.w3schools.com/cssref/css3_pr_align-items.php
+Flexbox - Compatibilidade: https://caniuse.com/?search=flexbox
+Flexbox - Auto prefixo: https://autoprefixer.github.io/
+Flexbox - Compatibilidade IE: https://github.com/jonathantneal/flexibility
+Normalize: https://necolas.github.io/normalize.css/
+HTML5Shiv: https://github.com/aFarkas/html5shiv
+HTML5Shiv CDN: https://cdnjs.com/libraries/html5shiv
+
+baixar fontes: site dafonte
+
+baixa em otf, tem que converter para woff

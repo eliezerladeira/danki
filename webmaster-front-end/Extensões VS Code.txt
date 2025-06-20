@@ -1,0 +1,8 @@
+Extensões vs code:
+
+code runner
+live server
+
+opcionais:
+codesandbox dark
+material icon theme
